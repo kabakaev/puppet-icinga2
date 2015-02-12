@@ -18,7 +18,7 @@
     {
       "operatingsystem": "Debian",
       "operatingsystemmajrelease": [
-        "7",
+        "7"
       ]
     },
     {
@@ -28,13 +28,13 @@
         "14.04"
       ]
     }
-  ],
+  ]
   "requirements": [
     {
       "name": "puppet",
       "version_requirement": "3.x"
     }
-  ],
+  ]
   "description": "A module for installing and configuring the Icinga 2 monitoring system",
   "dependencies": [
     {
